@@ -1,0 +1,62 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+.venv/
+.python-version
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+*.log
+logs/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Pytest cache
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Compiled C extensions
+*.so
+
+# Coverage reports
+.coverage
+htmlcov/
+.cache/
+
+# Build files
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Language-specific ignores (add as needed)
+# e.g., JavaScript/Node.js
+node_modules/
+
+# Specific to LangChain or LLMs (optional)
+*.pickle
+*.joblib
+
