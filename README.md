@@ -3,6 +3,7 @@ Beacon - AI-Powered Disaster Response and Recovery System
 The system features the following key ideas and functionalities:
 
 🔹 AI-Powered Flood & Landslide Prediction
+
 👉 Analyzes rainfall, soil moisture, and past disaster data to provide early warnings for preventive actions.
 
 🔹 Flood Segmentation & Depth Estimation
